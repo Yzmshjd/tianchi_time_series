@@ -1,6 +1,5 @@
-# tianchi_time_series
+# 天池大数据竞赛时间序列组队学习
 
-## Notes on git
-git clone == copy
+## Docker
+没有进行经验分享。第一次提交成绩.png是提交Demo后得到的成绩。
 
-## switching braches
