@@ -1,3 +1,6 @@
 # tianchi_time_series
 
-git clone == copy 
+## Notes on git
+git clone == copy
+
+## switching braches
